@@ -10,8 +10,8 @@
   "customHelp": "Objetivo: 10 Puntos de Renombre. RECURSOS: En el Turno 1 despliegas 2 Células de Fusión. En cada turno posterior (2+), despliegas 1 Célula. Usa Células para jugar cartas o mover tu Flota por el mapa.",
   "cardRotation": 90,
   "cards": {
-    "dataUrl": "",
-    "cardBack": ""
+    "dataUrl": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/TCG%20Arena/CardList.json?token=GHSAT0AAAAAAD2VF42SNHMFKH6OWVR7MC3S2PBEGHQ",
+    "cardBack": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/TCG%20Arena/Portada1PeroMuyGuapa.jpg?token=GHSAT0AAAAAAD2VF42TZ4APGIUXDIF6JEG42PBEGSQ"
   },
   "deckBuilding": {
     "mainFilters": [
