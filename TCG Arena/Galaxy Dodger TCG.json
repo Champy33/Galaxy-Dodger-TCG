@@ -14,8 +14,7 @@
     "cardBack": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/TCG%20Arena/Portada1PeroMuyGuapa.jpg?token=GHSAT0AAAAAAD2VF42TZ4APGIUXDIF6JEG42PBEGSQ"
   },
   "deckBuilding": {
-    "mainFilters": [
-      "Nombre",
+    "mainFilters": [      
       "Tipo",
       "Facción",
       "Coste"
