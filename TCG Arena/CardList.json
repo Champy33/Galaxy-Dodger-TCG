@@ -5,15 +5,20 @@
     "face": {
       "front": {
         "name": "",
-        "type": false,
+        "type": "false",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Cartas%20Terminadas%20Alpha/Amarillo/Capitan%20DD.png?token=GHSAT0AAAAAAD2VF42TUHAWF6W3GU2C2WNM2PBDV2A",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Cartas%20Terminadas%20Alpha/Amarillo/Capitan%20DD.png?token=GHSAT0AAAAAAD2VF42SNJK3OYCGEJHT6OZO2PBF4MA",
         "isHorizontal": false
       }
     },
     "name": "Capitan DD",
-    "type": false,
-    "cost": 0
+    "type": "Cazarrecompensas",
+    "cost": 0,
+    "Nombre": "Capitan DD",
+    "Facción": "Amarillo",
+    "Ataque": "5",
+    "Defensa": "5",
+    "Alcance": "1"
   },
   "1": {
     "id": "1",
@@ -21,15 +26,18 @@
     "face": {
       "front": {
         "name": "",
-        "type": false,
+        "type": "false",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Cartas%20Terminadas%20Alpha/Amarillo/Esquiva%20Galáctica.png?token=GHSAT0AAAAAAD2VF42S2FQ7HLDLC6ARNNAA2PBDW6A",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Cartas%20Terminadas%20Alpha/Amarillo/Esquiva%20Galáctica.png?token=GHSAT0AAAAAAD2VF42S6A55JX5MGH3Q44SU2PBGCGA",
         "isHorizontal": false
       }
     },
     "name": "Esquiva Galáctica",
-    "type": false,
-    "cost": 0
+    "type": "Balística",
+    "cost": "2",
+    "Nombre": "Esquiva Galáctica",
+    "Coste": "2",
+    "Facción": "Amarillo"
   },
   "2": {
     "id": "2",
@@ -37,15 +45,18 @@
     "face": {
       "front": {
         "name": "",
-        "type": false,
+        "type": "false",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Cartas%20Terminadas%20Alpha/Amarillo/Protector%20Estelar.png?token=GHSAT0AAAAAAD2VF42TFZ4TP7RUELPUBVWG2PBD2KA",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Cartas%20Terminadas%20Alpha/Amarillo/Protector%20Estelar.png?token=GHSAT0AAAAAAD2VF42SV6DSDARNUNNLPUIQ2PBGCMQ",
         "isHorizontal": false
       }
     },
     "name": "Protector Estelar",
-    "type": false,
-    "cost": 0
+    "type": "Balística",
+    "cost": "2",
+    "Nombre": "Protector Estelar",
+    "Coste": "2",
+    "Facción": "Amarillo"
   },
   "3": {
     "id": "3",
@@ -53,15 +64,18 @@
     "face": {
       "front": {
         "name": "",
-        "type": false,
+        "type": "false",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Cartas%20Terminadas%20Alpha/Amarillo/Prestigio%20Heroico.png?token=GHSAT0AAAAAAD2VF42TNOPYF3LX5QASAPO42PBD2WA",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Cartas%20Terminadas%20Alpha/Amarillo/Prestigio%20Heroico.png?token=GHSAT0AAAAAAD2VF42TGMLH3WWHH3R2VHHW2PBGCKA",
         "isHorizontal": false
       }
     },
     "name": "Prestigio Heroico",
-    "type": false,
-    "cost": 0
+    "type": "Comisión",
+    "cost": "3",
+    "Nombre": "Prestigio Heroico",
+    "Coste": "3",
+    "Facción": "Amarillo"
   },
   "4": {
     "id": "4",
@@ -69,14 +83,20 @@
     "face": {
       "front": {
         "name": "",
-        "type": false,
+        "type": "false",
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Cartas%20Terminadas%20Alpha/Amarillo/Galaxy%20Dodger.png?token=GHSAT0AAAAAAD2VF42SYVROCHGN7TUBFINC2PBD3FA",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Cartas%20Terminadas%20Alpha/Amarillo/Galaxy%20Dodger.png?token=GHSAT0AAAAAAD2VF42SXF6EIFTUPXG672CG2PBGCIQ",
         "isHorizontal": false
       }
     },
     "name": "Galaxy Dodger",
-    "type": false,
-    "cost": 0
+    "type": "Nave",
+    "cost": 0,
+    "Nombre": "Galaxy Dodger",
+    "Coste": "3",
+    "Ataque": "3",
+    "Defensa": "4",
+    "Alcance": "1",
+    "Facción": "Amarillo"
   }
 }
