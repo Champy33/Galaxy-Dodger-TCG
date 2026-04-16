@@ -103,7 +103,7 @@
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": false,
-            "keepTappedNewTurn": true,
+            "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
             "noQuickActions": false
           },
@@ -119,7 +119,7 @@
             "enterTapped": false,
             "enterSpun": false,
             "isGroupForbidden": true,
-            "keepTappedNewTurn": true,
+            "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false,
             "noQuickActions": true
           },
