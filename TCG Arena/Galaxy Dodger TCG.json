@@ -26,8 +26,6 @@
       {
         "title": "Estándar",
         "gameplay": "Classic",
-        "minCards": 40,
-        "maxCards": 40,
         "customCategories": [
           {
             "title": "Mazo de Células",
