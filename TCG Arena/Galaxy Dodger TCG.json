@@ -23,10 +23,9 @@
     ],
     "formats": [
       {
-        "name": "Estándar",
-        "minCards": 40,
-        "maxCards": 40,
-        "maxCardCopies": 3
+        "title": "Estándar",
+        "gameplay": "0",
+        "customCategories": []
       }
     ]
   },
