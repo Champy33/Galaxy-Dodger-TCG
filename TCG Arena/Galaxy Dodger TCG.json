@@ -15,26 +15,16 @@
   },
   "deckBuilding": {
     "mainFilters": [
-      "Amarillo",
-      "Rojo",
-      "Morado",
-      "Gris",
-      "Genérico",
-      "Células"
+      "name",
+      "type",
+      "faction",
+      "cost"
     ],
     "formats": [
       {
         "title": "Estándar",
         "gameplay": "Classic",
-        "minCards": 40,
-        "maxCards": 40,
-        "customCategories": [
-          {
-            "title": "Mazo Recursos",
-            "minCards": 10,
-            "maxCards": 10
-          }
-        ]
+        "customCategories": []
       }
     ]
   },
@@ -56,7 +46,6 @@
       "defaultNotes": "Recuerda: +2 Células en Turno 1, +1 Célula en turnos siguientes.",
       "tokens": [],
       "countersStartingValues": [
-        2,
         0
       ],
       "hideFacedDownCards": true,
