@@ -19,15 +19,21 @@
       "Rojo",
       "Morado",
       "Gris",
-      "Genérico"
+      "Genérico",
+      "Células"
     ],
     "formats": [
       {
         "title": "Estándar",
         "gameplay": "Classic",
+        "minCards": 40,
+        "maxCards": 40,
         "customCategories": [
-          "Mazo Principal",
-          "Mazo Recursos"
+          {
+            "title": "Mazo Recursos",
+            "minCards": 10,
+            "maxCards": 10
+          }
         ]
       }
     ]
