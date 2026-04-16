@@ -10,7 +10,7 @@
   "customHelp": "",
   "cardRotation": 90,
   "cards": {
-    "dataUrl": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/TCG%20Arena/CardList.json?token=GHSAT0AAAAAAD2VF42SNHMFKH6OWVR7MC3S2PBEGHQ",
+    "dataUrl": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/TCG%20Arena/CardList.json?token=GHSAT0AAAAAAD2VF42TUZ2ALFVIWJZTW4GC2PBGLTA",
     "cardBack": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/TCG%20Arena/Portada1PeroMuyGuapa.jpg?token=GHSAT0AAAAAAD2VF42TZ4APGIUXDIF6JEG42PBEGSQ"
   },
   "deckBuilding": {
