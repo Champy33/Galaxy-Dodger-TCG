@@ -1,0 +1,82 @@
+{
+  "0": {
+    "id": "0",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Cartas%20Terminadas%20Alpha/Amarillo/Capitan%20DD.png?token=GHSAT0AAAAAAD2VF42TUHAWF6W3GU2C2WNM2PBDV2A",
+        "isHorizontal": false
+      }
+    },
+    "name": "Capitan DD",
+    "type": false,
+    "cost": 0
+  },
+  "1": {
+    "id": "1",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Cartas%20Terminadas%20Alpha/Amarillo/Esquiva%20Galáctica.png?token=GHSAT0AAAAAAD2VF42S2FQ7HLDLC6ARNNAA2PBDW6A",
+        "isHorizontal": false
+      }
+    },
+    "name": "Esquiva Galáctica",
+    "type": false,
+    "cost": 0
+  },
+  "2": {
+    "id": "2",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Cartas%20Terminadas%20Alpha/Amarillo/Protector%20Estelar.png?token=GHSAT0AAAAAAD2VF42TFZ4TP7RUELPUBVWG2PBD2KA",
+        "isHorizontal": false
+      }
+    },
+    "name": "Protector Estelar",
+    "type": false,
+    "cost": 0
+  },
+  "3": {
+    "id": "3",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Cartas%20Terminadas%20Alpha/Amarillo/Prestigio%20Heroico.png?token=GHSAT0AAAAAAD2VF42TNOPYF3LX5QASAPO42PBD2WA",
+        "isHorizontal": false
+      }
+    },
+    "name": "Prestigio Heroico",
+    "type": false,
+    "cost": 0
+  },
+  "4": {
+    "id": "4",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Cartas%20Terminadas%20Alpha/Amarillo/Galaxy%20Dodger.png?token=GHSAT0AAAAAAD2VF42SYVROCHGN7TUBFINC2PBD3FA",
+        "isHorizontal": false
+      }
+    },
+    "name": "Galaxy Dodger",
+    "type": false,
+    "cost": 0
+  }
+}
