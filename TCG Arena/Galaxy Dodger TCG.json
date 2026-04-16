@@ -25,7 +25,10 @@
       {
         "title": "Estándar",
         "gameplay": "Classic",
-        "customCategories": []
+        "customCategories": [
+          "Mazo Principal",
+          "Mazo Recursos"
+        ]
       }
     ]
   },
@@ -41,15 +44,11 @@
       "newTurn": {
         "drawOnStart": true,
         "sharedTurn": false,
-        "firstPlayerTokenName": "Iniciativa",
+        "firstPlayerTokenName": "",
         "drawPerTurn": 1
       },
       "defaultNotes": "Recuerda: +2 Células en Turno 1, +1 Célula en turnos siguientes.",
-      "tokens": [
-        "Célula de Fusión",
-        "Dron Menor",
-        "Marcador de Flota"
-      ],
+      "tokens": [],
       "countersStartingValues": [
         2,
         0
