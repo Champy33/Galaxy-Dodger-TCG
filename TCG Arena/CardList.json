@@ -5,7 +5,7 @@
     "face": {
       "front": {
         "name": "",
-        "type": "false",
+        "type": false,
         "cost": 0,
         "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Cartas%20Terminadas%20Alpha/Amarillo/Capitan%20DD.png?token=GHSAT0AAAAAAD2VF42SNJK3OYCGEJHT6OZO2PBF4MA",
         "isHorizontal": false
@@ -18,7 +18,8 @@
     "Facción": "Amarillo",
     "Ataque": "5",
     "Defensa": "5",
-    "Alcance": "1"
+    "Alcance": "1",
+    "Tipo": "Cazarrecompensas"
   },
   "1": {
     "id": "1",
@@ -26,7 +27,7 @@
     "face": {
       "front": {
         "name": "",
-        "type": "false",
+        "type": false,
         "cost": 0,
         "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Cartas%20Terminadas%20Alpha/Amarillo/Esquiva%20Galáctica.png?token=GHSAT0AAAAAAD2VF42S6A55JX5MGH3Q44SU2PBGCGA",
         "isHorizontal": false
@@ -37,7 +38,8 @@
     "cost": "2",
     "Nombre": "Esquiva Galáctica",
     "Coste": "2",
-    "Facción": "Amarillo"
+    "Facción": "Amarillo",
+    "Tipo": "Balística"
   },
   "2": {
     "id": "2",
@@ -45,7 +47,7 @@
     "face": {
       "front": {
         "name": "",
-        "type": "false",
+        "type": false,
         "cost": 0,
         "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Cartas%20Terminadas%20Alpha/Amarillo/Protector%20Estelar.png?token=GHSAT0AAAAAAD2VF42SV6DSDARNUNNLPUIQ2PBGCMQ",
         "isHorizontal": false
@@ -56,7 +58,8 @@
     "cost": "2",
     "Nombre": "Protector Estelar",
     "Coste": "2",
-    "Facción": "Amarillo"
+    "Facción": "Amarillo",
+    "Tipo": "Balística"
   },
   "3": {
     "id": "3",
@@ -64,7 +67,7 @@
     "face": {
       "front": {
         "name": "",
-        "type": "false",
+        "type": false,
         "cost": 0,
         "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Cartas%20Terminadas%20Alpha/Amarillo/Prestigio%20Heroico.png?token=GHSAT0AAAAAAD2VF42TGMLH3WWHH3R2VHHW2PBGCKA",
         "isHorizontal": false
@@ -75,7 +78,8 @@
     "cost": "3",
     "Nombre": "Prestigio Heroico",
     "Coste": "3",
-    "Facción": "Amarillo"
+    "Facción": "Amarillo",
+    "Tipo": "Comisión"
   },
   "4": {
     "id": "4",
@@ -83,7 +87,7 @@
     "face": {
       "front": {
         "name": "",
-        "type": "false",
+        "type": false,
         "cost": 0,
         "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Cartas%20Terminadas%20Alpha/Amarillo/Galaxy%20Dodger.png?token=GHSAT0AAAAAAD2VF42SXF6EIFTUPXG672CG2PBGCIQ",
         "isHorizontal": false
@@ -97,6 +101,7 @@
     "Ataque": "3",
     "Defensa": "4",
     "Alcance": "1",
-    "Facción": "Amarillo"
+    "Facción": "Amarillo",
+    "Tipo": "Nave"
   }
 }
