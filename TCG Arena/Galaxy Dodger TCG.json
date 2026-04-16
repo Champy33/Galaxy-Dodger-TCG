@@ -1,0 +1,139 @@
+{
+  "name": "Galaxy Dodger TCG",
+  "menuBackgroundImage": "",
+  "defaultRessources": {
+    "backgrounds": [],
+    "decksUrl": ""
+  },
+  "customHelp": "Objetivo: 10 Puntos de Renombre. RECURSOS: En el Turno 1 despliegas 2 Células de Fusión. En cada turno posterior (2+), despliegas 1 Célula. Usa Células para jugar cartas o mover tu Flota por el mapa.",
+  "cardRotation": 90,
+  "cards": {
+    "dataUrl": "",
+    "cardBack": ""
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "Amarillo",
+      "Rojo",
+      "Morado",
+      "Gris",
+      "Genérico"
+    ],
+    "formats": []
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "info": "Selecciona las cartas que deseas cambiar. Se pondrán en el fondo del mazo y robarás nuevas.",
+        "startingHandSize": 5,
+        "drawNewHand": false,
+        "putSelectionAtBottom": true,
+        "drawNewSelectedCards": true
+      },
+      "newTurn": {
+        "drawOnStart": true,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "Iniciativa",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "Recuerda: +2 Células en Turno 1, +1 Célula en turnos siguientes.",
+      "tokens": [
+        "Célula de Fusión",
+        "Dron Menor",
+        "Marcador de Flota"
+      ],
+      "countersStartingValues": [
+        2,
+        0
+      ],
+      "hideFacedDownCards": true,
+      "sections": {
+        "customSections": [
+          "Mapa Espacial",
+          "Flota",
+          "Cazarrecompensas",
+          "Celulas de Fusion"
+        ],
+        "layout": {
+          "direction": "column",
+          "isSymetricalForOpponents": true,
+          "content": [
+            "Mapa Espacial",
+            "Flota",
+            "Cazarrecompensas",
+            "Celulas de Fusion"
+          ]
+        },
+        "categoriesAlreadyOnBoard": [],
+        "autoPlayFromHand": {},
+        "autoPlayFromStack": {},
+        "sectionsDict": {
+          "Mapa Espacial": {
+            "title": "Mapa Espacial",
+            "isHidden": "no",
+            "height": "LARGE",
+            "alignment": "CENTER",
+            "opponentAlignment": true,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Grafo Compartido",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
+          "Flota": {
+            "title": "Flota",
+            "isHidden": "no",
+            "height": "NORMAL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": "false",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Naves Activas",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          },
+          "Cazarrecompensas": {
+            "title": "Cazarrecompensas",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": false,
+            "displayedTitle": "Líder de Facción",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": true,
+            "keepTappedNewTurn": true,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "Celulas de Fusion": {
+            "title": "Células de Fusión",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": "true",
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Energía",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": false
+          }
+        }
+      }
+    }
+  }
+}
