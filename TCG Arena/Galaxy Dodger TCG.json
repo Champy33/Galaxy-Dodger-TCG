@@ -19,20 +19,13 @@
       "Rojo",
       "Morado",
       "Gris",
-      "Genérico",
-      "Células"
+      "Genérico"
     ],
     "formats": [
       {
         "title": "Estándar",
         "gameplay": "Classic",
-        "customCategories": [
-          {
-            "title": "Mazo de Células",
-            "minCards": 10,
-            "maxCards": 10
-          }
-        ]
+        "customCategories": []
       }
     ]
   },
