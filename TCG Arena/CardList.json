@@ -95,7 +95,7 @@
     },
     "name": "Galaxy Dodger",
     "type": "Nave",
-    "cost": 0,
+    "cost": "3",
     "Nombre": "Galaxy Dodger",
     "Coste": "3",
     "Ataque": "3",
