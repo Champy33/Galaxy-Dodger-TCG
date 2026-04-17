@@ -7,7 +7,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_01.jpg?token=GHSAT0AAAAAAD2VF42SGB54ZBF356VEQWKC2PCOH7Q",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_01.jpg",
         "isHorizontal": false
       }
     },
@@ -28,7 +28,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_02.jpg?token=GHSAT0AAAAAAD2VF42SUU4QRFPS3G5ZKEJE2PCOIIQ",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_02.jpg",
         "isHorizontal": false
       }
     },
@@ -49,7 +49,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_03.jpg?token=GHSAT0AAAAAAD2VF42TOFL6TXB4QJ4RVS4W2PCOINQ",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_03.jpg",
         "isHorizontal": false
       }
     },
@@ -70,7 +70,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_04.jpg?token=GHSAT0AAAAAAD2VF42TAXM35KDBYWARYYQK2PCOITQ",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_04.jpg",
         "isHorizontal": false
       }
     },
@@ -91,7 +91,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_05.jpg?token=GHSAT0AAAAAAD2VF42S5RGC4ZURJ2ROKSJI2PCOIZA",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_05.jpg",
         "isHorizontal": false
       }
     },
@@ -112,7 +112,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_06.jpg?token=GHSAT0AAAAAAD2VF42S4GOWBDTMREWU2D4Q2PCOJBQ",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_06.jpg",
         "isHorizontal": false
       }
     },
@@ -133,7 +133,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_07.jpg?token=GHSAT0AAAAAAD2VF42T3UFA4MB2CEAU3AH42PCOJIA",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_07.jpg",
         "isHorizontal": false
       }
     },
@@ -154,7 +154,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_08.jpg?token=GHSAT0AAAAAAD2VF42SEU64B4X4FFMTNTGW2PCOJSQ",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_08.jpg",
         "isHorizontal": false
       }
     },
@@ -175,7 +175,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_09.jpg?token=GHSAT0AAAAAAD2VF42S245ECKSUVVYIMU6G2PCOJYA",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_09.jpg",
         "isHorizontal": false
       }
     },
@@ -196,7 +196,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_10.jpg?token=GHSAT0AAAAAAD2VF42T23ZA327PSTDKD4JU2PCOKDQ",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_10.jpg",
         "isHorizontal": false
       }
     },
@@ -217,7 +217,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_11.jpg?token=GHSAT0AAAAAAD2VF42SLNFFV6PLS3EDFUCK2PCOKRQ",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_11.jpg",
         "isHorizontal": false
       }
     },
@@ -238,7 +238,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_12.jpg?token=GHSAT0AAAAAAD2VF42SHNELH547L6LNEJKC2PCOK6Q",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_12.jpg",
         "isHorizontal": false
       }
     },
@@ -259,7 +259,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_13.jpg?token=GHSAT0AAAAAAD2VF42TZ45RBFO7TCYHSYUY2PCOLFQ",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_13.jpg",
         "isHorizontal": false
       }
     },
@@ -280,7 +280,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_14.jpg?token=GHSAT0AAAAAAD2VF42ST5DBD7D4KYLUMEIK2PCOLKQ",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_14.jpg",
         "isHorizontal": false
       }
     },
@@ -301,7 +301,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_15.jpg?token=GHSAT0AAAAAAD2VF42SN5P5ZVL2TFQJSNJI2PCOLOQ",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_15.jpg",
         "isHorizontal": false
       }
     },
@@ -322,7 +322,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_16.jpg?token=GHSAT0AAAAAAD2VF42TW3G6TBISBO5W4V242PCOLUA",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_16.jpg",
         "isHorizontal": false
       }
     },
@@ -343,7 +343,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_17.jpg?token=GHSAT0AAAAAAD2VF42SZA76OSQNC5BW5ETI2PCOLYQ",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_17.jpg",
         "isHorizontal": false
       }
     },
@@ -364,7 +364,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_18.jpg?token=GHSAT0AAAAAAD2VF42TSBFBNQUXFN7UU3N42PCOL5A",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_18.jpg",
         "isHorizontal": false
       }
     },
@@ -385,7 +385,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_19.jpg?token=GHSAT0AAAAAAD2VF42TWGPL6OXVRMJJNS442PCOMBQ",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_19.jpg",
         "isHorizontal": false
       }
     },
@@ -406,7 +406,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_01.jpg?token=GHSAT0AAAAAAD2VF42S4JUZDTMLVDA76YVQ2PCOCQA",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_01.jpg",
         "isHorizontal": false
       }
     },
@@ -430,7 +430,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_02.jpg?token=GHSAT0AAAAAAD2VF42SAY7DGY6F6TV2WB7U2PCOC5Q",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_02.jpg",
         "isHorizontal": false
       }
     },
@@ -454,7 +454,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_03.jpg?token=GHSAT0AAAAAAD2VF42SHBK2MQAGT4ZX56K42PCOD4Q",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_03.jpg",
         "isHorizontal": false
       }
     },
@@ -478,7 +478,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_04.jpg?token=GHSAT0AAAAAAD2VF42TZCZNLGWXQVLR4BGY2PCOEEQ",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_04.jpg",
         "isHorizontal": false
       }
     },
@@ -502,7 +502,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_05.jpg?token=GHSAT0AAAAAAD2VF42SJTM5TB33M5LKYSLQ2PCOENQ",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_05.jpg",
         "isHorizontal": false
       }
     },
@@ -526,7 +526,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_06.jpg?token=GHSAT0AAAAAAD2VF42TU6QA5E5P3LRXTENM2PCOF3Q",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_06.jpg",
         "isHorizontal": false
       }
     },
@@ -550,7 +550,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_07.jpg?token=GHSAT0AAAAAAD2VF42S6HHH4UFET7NODJUA2PCOGCQ",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_07.jpg",
         "isHorizontal": false
       }
     },
@@ -574,7 +574,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_08.jpg?token=GHSAT0AAAAAAD2VF42TSDAGNRS6LYJ3OQGA2PCOGLA",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_08.jpg",
         "isHorizontal": false
       }
     },
@@ -598,7 +598,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_09.jpg?token=GHSAT0AAAAAAD2VF42TK5REOUC3QFF64SOY2PCOGQQ",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_09.jpg",
         "isHorizontal": false
       }
     },
@@ -622,7 +622,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_10.jpg?token=GHSAT0AAAAAAD2VF42TZVS3ZAP6S7QZDS5S2PCOGWQ",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_10.jpg",
         "isHorizontal": false
       }
     },
@@ -646,7 +646,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_11.jpg?token=GHSAT0AAAAAAD2VF42TY6LRW745UCWBJW2G2PCOG5A",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_11.jpg",
         "isHorizontal": false
       }
     },
@@ -670,7 +670,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_12.jpg?token=GHSAT0AAAAAAD2VF42TSN3L7CZGJXQ6HTSQ2PCOHGQ",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_12.jpg",
         "isHorizontal": false
       }
     },
@@ -694,7 +694,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_13.jpg?token=GHSAT0AAAAAAD2VF42S564QGFXNPQBMPKBK2PCOHOQ",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_13.jpg",
         "isHorizontal": false
       }
     },
@@ -718,7 +718,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Capitan%20DD.png?token=GHSAT0AAAAAAD2VF42TYDKQEG6TQRAV63XK2PCOM3A",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Capitan%20DD.png",
         "isHorizontal": false
       }
     },
@@ -742,7 +742,7 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Astord%20Malakt.png?token=GHSAT0AAAAAAD2VF42SZ5PPYBC76V6XLFVM2PCON3A",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Astord%20Malakt.png",
         "isHorizontal": false
       }
     },
