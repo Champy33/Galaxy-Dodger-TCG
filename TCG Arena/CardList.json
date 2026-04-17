@@ -7,19 +7,18 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Cartas%20Terminadas%20Alpha/Amarillo/Capitan%20DD.png?token=GHSAT0AAAAAAD2VF42SNJK3OYCGEJHT6OZO2PBF4MA",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_01.jpg?token=GHSAT0AAAAAAD2VF42SGB54ZBF356VEQWKC2PCOH7Q",
         "isHorizontal": false
       }
     },
-    "name": "Capitan DD",
-    "type": "Cazarrecompensas",
-    "cost": 0,
-    "Nombre": "Capitan DD",
+    "name": "Esquiva Galactica",
+    "type": "Balística",
+    "cost": "2",
+    "Nombre": "Esquiva Galactica",
+    "Coste": "2",
     "Facción": "Amarillo",
-    "Ataque": "5",
-    "Defensa": "5",
-    "Alcance": "1",
-    "Tipo": "Cazarrecompensas"
+    "Tipo": "Balística",
+    "Efecto": "Muevete a un planeta adyacente. Despues de eso, muevete a un planeta adyacente."
   },
   "1": {
     "id": "1",
@@ -29,17 +28,18 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Cartas%20Terminadas%20Alpha/Amarillo/Esquiva%20Galáctica.png?token=GHSAT0AAAAAAD2VF42S6A55JX5MGH3Q44SU2PBGCGA",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_02.jpg?token=GHSAT0AAAAAAD2VF42SUU4QRFPS3G5ZKEJE2PCOIIQ",
         "isHorizontal": false
       }
     },
-    "name": "Esquiva Galáctica",
+    "name": "Protector  Estelar",
     "type": "Balística",
     "cost": "2",
-    "Nombre": "Esquiva Galáctica",
+    "Nombre": "Protector  Estelar",
     "Coste": "2",
     "Facción": "Amarillo",
-    "Tipo": "Balística"
+    "Tipo": "Balística",
+    "Efecto": "Elige una nave de tu flota, esa nave obtiene INMUNIDAD contra balisticas hasta el final del turno."
   },
   "2": {
     "id": "2",
@@ -49,17 +49,18 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Cartas%20Terminadas%20Alpha/Amarillo/Protector%20Estelar.png?token=GHSAT0AAAAAAD2VF42SV6DSDARNUNNLPUIQ2PBGCMQ",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_03.jpg?token=GHSAT0AAAAAAD2VF42TOFL6TXB4QJ4RVS4W2PCOINQ",
         "isHorizontal": false
       }
     },
-    "name": "Protector Estelar",
+    "name": "Impulso Gravita.",
     "type": "Balística",
-    "cost": "2",
-    "Nombre": "Protector Estelar",
-    "Coste": "2",
+    "cost": "6",
+    "Nombre": "Impulso Gravita.",
+    "Coste": "6",
     "Facción": "Amarillo",
-    "Tipo": "Balística"
+    "Tipo": "Balística",
+    "Efecto": "Mueve la flota de tu rival a un planeta adyacente."
   },
   "3": {
     "id": "3",
@@ -69,17 +70,18 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Cartas%20Terminadas%20Alpha/Amarillo/Prestigio%20Heroico.png?token=GHSAT0AAAAAAD2VF42TGMLH3WWHH3R2VHHW2PBGCKA",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_04.jpg?token=GHSAT0AAAAAAD2VF42TAXM35KDBYWARYYQK2PCOITQ",
         "isHorizontal": false
       }
     },
-    "name": "Prestigio Heroico",
-    "type": "Comisión",
-    "cost": "3",
-    "Nombre": "Prestigio Heroico",
-    "Coste": "3",
+    "name": "Humo Espacial",
+    "type": "Balística",
+    "cost": "4",
+    "Nombre": "Humo Espacial",
+    "Coste": "4",
     "Facción": "Amarillo",
-    "Tipo": "Comisión"
+    "Tipo": "Balística",
+    "Efecto": "Elige una nave que este defendiendo. Durante este combate esa nave recibe 0 de dano y hace 0 de dano."
   },
   "4": {
     "id": "4",
@@ -89,7 +91,322 @@
         "name": "",
         "type": false,
         "cost": 0,
-        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Cartas%20Terminadas%20Alpha/Amarillo/Galaxy%20Dodger.png?token=GHSAT0AAAAAAD2VF42SXF6EIFTUPXG672CG2PBGCIQ",
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_05.jpg?token=GHSAT0AAAAAAD2VF42S5RGC4ZURJ2ROKSJI2PCOIZA",
+        "isHorizontal": false
+      }
+    },
+    "name": "Prestigio Heroico",
+    "type": "Comisión",
+    "cost": "3",
+    "Nombre": "Prestigio Heroico",
+    "Coste": "3",
+    "Facción": "Amarillo",
+    "Tipo": "Comisión",
+    "Efecto": "PERMANENTE Si te mueves 2 veces en un turno, ganas 2 puntos de renombre."
+  },
+  "5": {
+    "id": "5",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_06.jpg?token=GHSAT0AAAAAAD2VF42S4GOWBDTMREWU2D4Q2PCOJBQ",
+        "isHorizontal": false
+      }
+    },
+    "name": "Millas Espaciales",
+    "type": "Comisión",
+    "cost": "4",
+    "Nombre": "Millas Espaciales",
+    "Coste": "4",
+    "Facción": "Amarillo",
+    "Tipo": "Comisión",
+    "Efecto": "PERMANENTE Cada vez que te muevas, roba 1 carta."
+  },
+  "6": {
+    "id": "6",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_07.jpg?token=GHSAT0AAAAAAD2VF42T3UFA4MB2CEAU3AH42PCOJIA",
+        "isHorizontal": false
+      }
+    },
+    "name": "Se busca!",
+    "type": "Balística",
+    "cost": "2",
+    "Nombre": "Se busca!",
+    "Coste": "2",
+    "Facción": "Rojo",
+    "Tipo": "Balística",
+    "Efecto": "Elige una nave de la flota de tu rival, si esa nave resulta destruida este turno, ganas dos puntos de renombre y robas una carta."
+  },
+  "7": {
+    "id": "7",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_08.jpg?token=GHSAT0AAAAAAD2VF42SEU64B4X4FFMTNTGW2PCOJSQ",
+        "isHorizontal": false
+      }
+    },
+    "name": "Double Trouble",
+    "type": "Balística",
+    "cost": "3",
+    "Nombre": "Double Trouble",
+    "Coste": "3",
+    "Facción": "Rojo",
+    "Tipo": "Balística",
+    "Efecto": "Elige dos naves diferentes de la flota de tu rival, haz 2 puntos de dano a cada una."
+  },
+  "8": {
+    "id": "8",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_09.jpg?token=GHSAT0AAAAAAD2VF42S245ECKSUVVYIMU6G2PCOJYA",
+        "isHorizontal": false
+      }
+    },
+    "name": "Escaner de Rastreo Mejorado",
+    "type": "Balística",
+    "cost": "4",
+    "Nombre": "Escaner de Rastreo Mejorado",
+    "Coste": "4",
+    "Facción": "Rojo",
+    "Tipo": "Balística",
+    "Efecto": "Aumenta el alcance de tus naves en 1 hasta el final de tu turno."
+  },
+  "9": {
+    "id": "9",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_10.jpg?token=GHSAT0AAAAAAD2VF42T23ZA327PSTDKD4JU2PCOKDQ",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bombardeo Total",
+    "type": "Balística",
+    "cost": "5",
+    "Nombre": "Bombardeo Total",
+    "Coste": "5",
+    "Facción": "Rojo",
+    "Tipo": "Balística",
+    "Efecto": "Haz 1 de dano a cada nave de la flota enemiga."
+  },
+  "10": {
+    "id": "10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_11.jpg?token=GHSAT0AAAAAAD2VF42SLNFFV6PLS3EDFUCK2PCOKRQ",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Puppet Master",
+    "type": "Balística",
+    "cost": "6",
+    "Nombre": "The Puppet Master",
+    "Coste": "6",
+    "Facción": "Rojo",
+    "Tipo": "Balística",
+    "Efecto": "Elige una nave de la flota de tu rival que vaya a ser destruida. Anadela a tu flota."
+  },
+  "11": {
+    "id": "11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_12.jpg?token=GHSAT0AAAAAAD2VF42SHNELH547L6LNEJKC2PCOK6Q",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tactica Intimidante",
+    "type": "Balística",
+    "cost": "2",
+    "Nombre": "Tactica Intimidante",
+    "Coste": "2",
+    "Facción": "Rojo",
+    "Tipo": "Balística",
+    "Efecto": "Roba 1 carta por cada nave del enemigo que haya defendido este turno."
+  },
+  "12": {
+    "id": "12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_13.jpg?token=GHSAT0AAAAAAD2VF42TZ45RBFO7TCYHSYUY2PCOLFQ",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bomba",
+    "type": "Balística",
+    "cost": "3",
+    "Nombre": "Bomba",
+    "Coste": "3",
+    "Facción": "Generico",
+    "Tipo": "Balística",
+    "Efecto": "Elige una nave de la flota del rival. Haz 3 puntos de dano a esa nave."
+  },
+  "13": {
+    "id": "13",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_14.jpg?token=GHSAT0AAAAAAD2VF42ST5DBD7D4KYLUMEIK2PCOLKQ",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pequeno Arreglo",
+    "type": "Balística",
+    "cost": "2",
+    "Nombre": "Pequeno Arreglo",
+    "Coste": "2",
+    "Facción": "Generico",
+    "Tipo": "Balística",
+    "Efecto": "Cura 2 puntos de dano a una nave de tu flota."
+  },
+  "14": {
+    "id": "14",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_15.jpg?token=GHSAT0AAAAAAD2VF42SN5P5ZVL2TFQJSNJI2PCOLOQ",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gran Arreglo",
+    "type": "Balística",
+    "cost": "4",
+    "Nombre": "Gran Arreglo",
+    "Coste": "4",
+    "Facción": "Generico",
+    "Tipo": "Balística",
+    "Efecto": "Descarta una carta para poder jugar esta. Cura 5 puntos de dano a una nave de tu flota."
+  },
+  "15": {
+    "id": "15",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_16.jpg?token=GHSAT0AAAAAAD2VF42TW3G6TBISBO5W4V242PCOLUA",
+        "isHorizontal": false
+      }
+    },
+    "name": "Info del gremio",
+    "type": "Comisión",
+    "cost": "2",
+    "Nombre": "Info del gremio",
+    "Coste": "2",
+    "Facción": "Generico",
+    "Tipo": "Comisión",
+    "Efecto": "Roba 2 cartas"
+  },
+  "16": {
+    "id": "16",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_17.jpg?token=GHSAT0AAAAAAD2VF42SZA76OSQNC5BW5ETI2PCOLYQ",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pequeno Empujon",
+    "type": "Comisión",
+    "cost": "3",
+    "Nombre": "Pequeno Empujon",
+    "Coste": "3",
+    "Facción": "Generico",
+    "Tipo": "Comisión",
+    "Efecto": "Muevete a un planeta adyacente."
+  },
+  "17": {
+    "id": "17",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_18.jpg?token=GHSAT0AAAAAAD2VF42TSBFBNQUXFN7UU3N42PCOL5A",
+        "isHorizontal": false
+      }
+    },
+    "name": "Caza menor",
+    "type": "Comisión",
+    "cost": "3",
+    "Nombre": "Caza menor",
+    "Coste": "3",
+    "Facción": "Generico",
+    "Tipo": "Comisión",
+    "Efecto": "PERMANENTE Cada vez que destruyas una nave que cueste 2 o menos. Pon un contador, retira 2 y gana un punto de renombre."
+  },
+  "18": {
+    "id": "18",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Resto/resto_19.jpg?token=GHSAT0AAAAAAD2VF42TWGPL6OXVRMJJNS442PCOMBQ",
+        "isHorizontal": false
+      }
+    },
+    "name": "Policia Encubierto",
+    "type": "Comisión",
+    "cost": "3",
+    "Nombre": "Policia Encubierto",
+    "Coste": "3",
+    "Facción": "Generico",
+    "Tipo": "Comisión",
+    "Efecto": "PERMANENTE Al final de tu turno, si no has atacado con ninguna nave, gana un punto de renombre."
+  },
+  "19": {
+    "id": "19",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_01.jpg?token=GHSAT0AAAAAAD2VF42S4JUZDTMLVDA76YVQ2PCOCQA",
         "isHorizontal": false
       }
     },
@@ -102,6 +419,343 @@
     "Defensa": "4",
     "Alcance": "1",
     "Facción": "Amarillo",
-    "Tipo": "Nave"
+    "Tipo": "Nave",
+    "Efecto": "DODGE (Cuando Galaxy Dodger es objetivo de un efecto, lanza un D6, si sale 5 o 6, el efecto no se resuelve)"
+  },
+  "20": {
+    "id": "20",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_02.jpg?token=GHSAT0AAAAAAD2VF42SAY7DGY6F6TV2WB7U2PCOC5Q",
+        "isHorizontal": false
+      }
+    },
+    "name": "Blur",
+    "type": "Nave",
+    "cost": "5",
+    "Nombre": "Blur",
+    "Coste": "5",
+    "Ataque": "5",
+    "Defensa": "3",
+    "Alcance": "1",
+    "Facción": "Amarillo",
+    "Tipo": "Nave",
+    "Efecto": "Si te has movido este turno, Blur obtiene PROTECCIÓN contra ataques desde 2 o más de alcance."
+  },
+  "21": {
+    "id": "21",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_03.jpg?token=GHSAT0AAAAAAD2VF42SHBK2MQAGT4ZX56K42PCOD4Q",
+        "isHorizontal": false
+      }
+    },
+    "name": "Genesis",
+    "type": "Nave",
+    "cost": "3",
+    "Nombre": "Genesis",
+    "Coste": "3",
+    "Ataque": "1",
+    "Defensa": "1",
+    "Alcance": "1",
+    "Facción": "Amarillo",
+    "Tipo": "Nave",
+    "Efecto": "Cuando Genesis va a recibir daño, puedes ponerla en tu mano. (El ataque bloqueado falla y no se reasigna el daño)."
+  },
+  "22": {
+    "id": "22",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_04.jpg?token=GHSAT0AAAAAAD2VF42TZCZNLGWXQVLR4BGY2PCOEEQ",
+        "isHorizontal": false
+      }
+    },
+    "name": "Radiohead",
+    "type": "Nave",
+    "cost": "7",
+    "Nombre": "Radiohead",
+    "Coste": "7",
+    "Ataque": "6",
+    "Defensa": "7",
+    "Alcance": "1",
+    "Facción": "Amarillo",
+    "Tipo": "Nave",
+    "Efecto": "Cada vez que te muevas, mira las 2 primeras cartas de tu mazo, roba 1 y pon la otra en el fondo del mazo."
+  },
+  "23": {
+    "id": "23",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_05.jpg?token=GHSAT0AAAAAAD2VF42SJTM5TB33M5LKYSLQ2PCOENQ",
+        "isHorizontal": false
+      }
+    },
+    "name": "Iron Maiden",
+    "type": "Nave",
+    "cost": "4",
+    "Nombre": "Iron Maiden",
+    "Coste": "4",
+    "Ataque": "6",
+    "Defensa": "2",
+    "Alcance": "1",
+    "Facción": "Rojo",
+    "Tipo": "Nave",
+    "Efecto": "Si te has movido este turno, Iron Maiden no puede atacar."
+  },
+  "24": {
+    "id": "24",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_06.jpg?token=GHSAT0AAAAAAD2VF42TU6QA5E5P3LRXTENM2PCOF3Q",
+        "isHorizontal": false
+      }
+    },
+    "name": "Slayer",
+    "type": "Nave",
+    "cost": "5",
+    "Nombre": "Slayer",
+    "Coste": "5",
+    "Ataque": "3",
+    "Defensa": "5",
+    "Alcance": "1",
+    "Facción": "Rojo",
+    "Tipo": "Nave",
+    "Efecto": "Si Slayer está atacando a una nave que ya tiene daño, obtiene +3 de ataque."
+  },
+  "25": {
+    "id": "25",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_07.jpg?token=GHSAT0AAAAAAD2VF42S6HHH4UFET7NODJUA2PCOGCQ",
+        "isHorizontal": false
+      }
+    },
+    "name": "Megadeth",
+    "type": "Nave",
+    "cost": "8",
+    "Nombre": "Megadeth",
+    "Coste": "8",
+    "Ataque": "8",
+    "Defensa": "4",
+    "Alcance": "1",
+    "Facción": "Rojo",
+    "Tipo": "Nave",
+    "Efecto": "Arrollar (El daño sobrante que haga esta carta se asigna a una nave de la flota rival de tu elección (no puedes elegir a la que estás atacando))."
+  },
+  "26": {
+    "id": "26",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_08.jpg?token=GHSAT0AAAAAAD2VF42TSDAGNRS6LYJ3OQGA2PCOGLA",
+        "isHorizontal": false
+      }
+    },
+    "name": "Judas Priest",
+    "type": "Nave",
+    "cost": "5",
+    "Nombre": "Judas Priest",
+    "Coste": "5",
+    "Ataque": "6",
+    "Defensa": "6",
+    "Alcance": "1",
+    "Facción": "Rojo",
+    "Tipo": "Nave",
+    "Efecto": "Si un enemigo destruye a Judas Priest. El enemigo gana 2 puntos de renombre."
+  },
+  "27": {
+    "id": "27",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_09.jpg?token=GHSAT0AAAAAAD2VF42TK5REOUC3QFF64SOY2PCOGQQ",
+        "isHorizontal": false
+      }
+    },
+    "name": "Canon Ligero",
+    "type": "Nave",
+    "cost": "2",
+    "Nombre": "Canon Ligero",
+    "Coste": "2",
+    "Ataque": "2",
+    "Defensa": "2",
+    "Alcance": "1",
+    "Facción": "Generico",
+    "Tipo": "Nave",
+    "Efecto": ""
+  },
+  "28": {
+    "id": "28",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_10.jpg?token=GHSAT0AAAAAAD2VF42TZVS3ZAP6S7QZDS5S2PCOGWQ",
+        "isHorizontal": false
+      }
+    },
+    "name": "Canon Mediano",
+    "type": "Nave",
+    "cost": "4",
+    "Nombre": "Canon Mediano",
+    "Coste": "4",
+    "Ataque": "4",
+    "Defensa": "4",
+    "Alcance": "1",
+    "Facción": "Generico",
+    "Tipo": "Nave",
+    "Efecto": ""
+  },
+  "29": {
+    "id": "29",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_11.jpg?token=GHSAT0AAAAAAD2VF42TY6LRW745UCWBJW2G2PCOG5A",
+        "isHorizontal": false
+      }
+    },
+    "name": "Canon Grande",
+    "type": "Nave",
+    "cost": "7",
+    "Nombre": "Canon Grande",
+    "Coste": "7",
+    "Ataque": "7",
+    "Defensa": "7",
+    "Alcance": "1",
+    "Facción": "Generico",
+    "Tipo": "Nave",
+    "Efecto": ""
+  },
+  "30": {
+    "id": "30",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_12.jpg?token=GHSAT0AAAAAAD2VF42TSN3L7CZGJXQ6HTSQ2PCOHGQ",
+        "isHorizontal": false
+      }
+    },
+    "name": "Carguero Pesado",
+    "type": "Nave",
+    "cost": "3",
+    "Nombre": "Carguero Pesado",
+    "Coste": "3",
+    "Ataque": "0",
+    "Defensa": "5",
+    "Alcance": "0",
+    "Facción": "Generico",
+    "Tipo": "Nave",
+    "Efecto": ""
+  },
+  "31": {
+    "id": "31",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Naves/naves_13.jpg?token=GHSAT0AAAAAAD2VF42S564QGFXNPQBMPKBK2PCOHOQ",
+        "isHorizontal": false
+      }
+    },
+    "name": "Deal-breaker",
+    "type": "Nave",
+    "cost": "5",
+    "Nombre": "Deal-breaker",
+    "Coste": "5",
+    "Ataque": "4",
+    "Defensa": "4",
+    "Alcance": "1",
+    "Facción": "Generico",
+    "Tipo": "Nave",
+    "Efecto": "Cuando esta nave entra en juego, puedes destruir una comisión del enemigo."
+  },
+  "32": {
+    "id": "32",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Capitan%20DD.png?token=GHSAT0AAAAAAD2VF42TYDKQEG6TQRAV63XK2PCOM3A",
+        "isHorizontal": false
+      }
+    },
+    "name": "Capitan DD",
+    "type": false,
+    "cost": 0,
+    "Nombre": "Capitán DD",
+    "Coste": "0",
+    "Facción": "Amarillo",
+    "Tipo": "Cazarrecompensas",
+    "Efecto": "DODGE",
+    "Ataque": "5",
+    "Defensa": "5",
+    "Alcance": "1"
+  },
+  "33": {
+    "id": "33",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/Champy33/Galaxy-Dodger-TCG/refs/heads/main/Protocards/Astord%20Malakt.png?token=GHSAT0AAAAAAD2VF42SZ5PPYBC76V6XLFVM2PCON3A",
+        "isHorizontal": false
+      }
+    },
+    "name": "Astord Malakt",
+    "type": false,
+    "cost": 0,
+    "Nombre": "Astord Malakt",
+    "Coste": "0",
+    "Facción": "Rojo",
+    "Tipo": "0",
+    "Efecto": "Cuando Astord Malakt destruye una nave de la flota enemiga, gana un punto de renombre y roba una carta.",
+    "Ataque": "4",
+    "Defensa": "4",
+    "Alcance": "2"
   }
 }
