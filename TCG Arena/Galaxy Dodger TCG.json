@@ -74,8 +74,14 @@
           "Cazarrecompensas",
           "Recursos"
         ],
-        "autoPlayFromHand": {},
-        "autoPlayFromStack": {},
+        "autoPlayFromHand": {
+          "Nave": "Flota",
+          "Comisión": "Flota",
+          "Balística": "Stack"
+        },
+        "autoPlayFromStack": {
+          "Balística": "Discard"
+        },
         "sectionsDict": {
           "Hand": {
             "isDefaultSection": true,
